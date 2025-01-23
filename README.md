@@ -1,7 +1,3 @@
-Here's a sample **README** file for your ETL project. This README explains the project's purpose, process, tools used, and how to navigate its documentation.
-
----
-
 # **ETL Pipeline Project**
 
 ## **Overview**
